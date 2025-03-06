@@ -9,3 +9,6 @@ sync/
 # 忽略安装和用户文件
 installation.yaml
 user.yaml
+
+# 忽略Mac系统文件
+.DS_store
